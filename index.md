@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My name is Uyen and I am a junior developer :).

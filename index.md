@@ -1,6 +1,6 @@
 ## Welcome to my portfolio
 Hello, this is Uyen and I am a new developer. Please stay tune for all the projects.
-``` you can find me at github.com/uyentdang
+``` you can find me at github.com/uyentdang```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/uyentdang/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

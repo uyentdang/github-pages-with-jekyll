@@ -1,6 +1,6 @@
 
 ![profile pic]
-https://www.exasol.com/app/uploads/2020/06/women-in-tech-1-760x452.jpg
+(https://www.exasol.com/app/uploads/2020/06/women-in-tech-1-760x452.jpg)
 
 
 

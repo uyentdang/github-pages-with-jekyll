@@ -1,3 +1,17 @@
+
+![profile pic]
+https://www.exasol.com/app/uploads/2020/06/women-in-tech-1-760x452.jpg
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to my portfolio
 Hello, this is Uyen and I am a new developer. Please stay tune for all the projects.
 ``` you can find me at github.com/uyentdang```
